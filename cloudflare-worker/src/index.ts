@@ -318,6 +318,14 @@ async function sendVoucherEmail(params: {
             </tr>
           </table>
 
+          <p style="color:#18181b;margin:0 0 8px;font-size:16px;">
+          Ważne informacje!
+          </p>
+          <p style="color:#18181b;font-size:16px;line-height:1.6;margin:0 0 28px;">
+            Pamiętaj, że zawsze możesz zmienić termin warsztatów na maksymalnie tydzień - 7 dni - przed ich rozpoczęciem. <br />
+            Warsztaty odbędą się przy zapisaniu się minimum 4 osób.
+          </p>
+
           <p style="color:#18181b;margin:0 0 8px;font-size:16px;">Jak zarezerwować termin? </p>
           <p style="color:#18181b;font-size:16px;line-height:1.6;margin:0 0 28px;">
             Przejdź do formularza kontaktowego, napisz wiadomość i podaj kod vouchera w treści wiadomości. Termin zostanie potwierdzony przez pracownię.
