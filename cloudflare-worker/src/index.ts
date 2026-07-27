@@ -377,7 +377,7 @@ async function sendVoucherEmail(params: {
       from:    'MR Glass Project <noreply@mrglassproject.com>',
       to:      [params.to],
       reply_to: 'rezerwacje@mrglassproject.com',
-      cc:      ['rezerwacje@mrglassproject.com'],   
+      cc:      ['rezerwacje@mrglassproject.com', 'glassprojectwarszawa@gmail.com'],   
       subject: `🎁 Twój voucher na warsztaty - ${params.workshopTitle}`,
       html,
       attachments: [
