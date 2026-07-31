@@ -9,7 +9,7 @@
     "tail":   "wrangler tail"
   },
   "dependencies": {
-    "resend":            "^3.0.0",
+    "resend":            "^6.18.1",
     "satori":            "^0.10.0",
     "@resvg/resvg-wasm": "^2.6.0"
   },
